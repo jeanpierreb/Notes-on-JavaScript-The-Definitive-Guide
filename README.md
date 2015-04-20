@@ -1,4 +1,4 @@
-# JavaScript-The-Definitive-Guide by David Flanagan
+## JavaScript The Definitive Guide by David Flanagan
 These are notes I took while studying this phenomenal book organized by chapter and section. I am following [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/).
 
 I use this as a quick reference and learning aid. Feel free to fork this repository.
