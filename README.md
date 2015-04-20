@@ -6,7 +6,7 @@ These are notes I took while studying this phenomenal book organized by chapter 
 ###Table of Contents
 
 | Chapter | Title                                       |
-|:-------:|---------------------------------------------|
+|:-------:|:--------------------------------------------|
 | 1       | Introduction to JavaScript                  |
 | 2       | Lexical Structure                           |
 | 3       | Types, Values, and Variables                |
