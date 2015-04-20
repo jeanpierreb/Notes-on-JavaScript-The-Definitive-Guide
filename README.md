@@ -1,34 +1,7 @@
-# JavaScript The Definitive Guide 
-##by David Flanagan
+# Notes: JavaScript The Definitive Guide 
+by David Flanagan
 
-These are notes I took while studying this phenomenal book organized by chapter and section. I am following [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/). I use this as a quick reference and learning aid. Feel free to fork this repository.
-
-###Table of Contents
-
-| Chapter | Title                                       |
-|:-------:|:--------------------------------------------|
-| 1       | Introduction to JavaScript                  |
-| 2       | Lexical Structure                           |
-| 3       | Types, Values, and Variables                |
-| 4       | Expressions and Operators                   |
-| 5       | Statements                                  |
-| 6       | Objects                                     |
-| 7       | Arrays                                      |
-| 8       | Functions                                   |
-| 9       | Classes and Modules                         |
-| 10      | Pattern Matching with Regular Expressions   |
-| 11      | JavaScript Subsets and Extensions           |
-| 12      | Server-Side JavaScript                      |
-| 13      | JavaScript in Web Browser                   |
-| 14      | The Window Object                           |
-| 15      | Scripting Documents                         |
-| 16      | Scripting CSS                               |
-| 17      | Handling Events                             |
-| 18      | Scripted HTTP                               |
-| 19      | The jQuery Librar                           |
-| 20      | Client-Side Storage                         |
-| 21      | Scripted Media and Graphics                 |
-| 22      | HTML5 API                                   |
+These are notes I took while studying this phenomenal book. The notes are organized by chapter and section. This is a JavaScript course of study largely inspired by [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/). This is meant to be a detailed treatment of the JavaScript langauge. My notes are on this repo's wiki, [read them here](https://github.com/jeanpierreb/Notes-on-JavaScript-The-Definitive-Guide/wiki)
 
 ###Questions?
 For JavaScript questions post them to [StackOverflow](http://stackoverflow) and [tweet me](https://twitter.com/jeanpier_re) the link.
