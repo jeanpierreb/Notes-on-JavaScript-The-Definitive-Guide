@@ -1,5 +1,6 @@
 # Summary
 
+Part I
 * [Introduction](chapter01.md)
 * [Lexical Structure](Part\ I/chapter02.md)
 * [Types, Values, and Variables](Part\ I/chapter03.md)
@@ -12,3 +13,5 @@
 * [Regex](Part\ I/chapter10.md)
 * [JavaScript Subsets](Part\ I/chapter11.md)
 * [Server-Side JS](Part\ I/chapter12.md)
+
+Part II
