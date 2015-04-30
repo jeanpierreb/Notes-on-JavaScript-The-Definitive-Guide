@@ -1,3 +1,6 @@
 {
-    "verions": "0.0.1"
+    "gitbook": ">1.x.x",
+    "plugins": [
+        "exercises"
+    ]
 }
