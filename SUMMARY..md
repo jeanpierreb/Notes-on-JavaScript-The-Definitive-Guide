@@ -1,8 +1,8 @@
 # Summary
 
 * [Chapter 1 - Intnroduction]()
-* [Chapter 2 - ]()
-* [Chapter 3 - ]()
+* [Chapter 2 - Lexical Structure]()
+* [Chapter 3 - Types, Values and Variables]()
 * [Chapter 4 - Expressions nad Operators]()
 * [Chapter 5 - Statements]()
 * [Chapter 6 - Objects]()
