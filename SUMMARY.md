@@ -15,3 +15,13 @@ Part I
 * [Server-Side JS](PartI/chapter12.md)
 
 Part II
+* [Web Browsrs](PartII/chapter13.md)
+* [The Window Object](PartII/chapter14.md)
+* [Scripting Documents](PartII/chapter15.md)
+* [Scripting CSS](PartII/chapter16.md)
+* [Events](PartII/chapter17.md)
+* [HTTP](PartII/chapter18.md)
+* [jQuery](PartII/chapter19.md)
+* [Client-Side Storage](PartII/chapter20.md)
+* [Media and Graphics](PartII/chapter21.md)
+* [HTML5 APIs](PartII/chapter22.md)
