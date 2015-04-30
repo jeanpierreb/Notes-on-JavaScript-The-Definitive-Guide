@@ -1,24 +1,5 @@
 # Summary
 
-* [Chapter 1 - Intnroduction]()
-* [Chapter 2 - Lexical Structure]()
-* [Chapter 3 - Types, Values and Variables]()
-* [Chapter 4 - Expressions nad Operators]()
-* [Chapter 5 - Statements]()
-* [Chapter 6 - Objects]()
-* [Chapter 7 - Arrays]()
-* [Chapter 8 - Functions]()
-* [Chapter 9 - Classes and Modules]()
-* [Chapter 10 - Pattern Matching with Regex]()
-* [Chapter 11 - JavaScript Subsets and Extensions]()
-* [Chapter 12 - Server-Side JavaScript]()
-* [Chapter 13 - JavaScript in Web Browsers]()
-* [Chapter 14 - The Window Object]()
-* [Chapter 15 - Scripting Documents]()
-* [Chapter 16 - Scripting CSS]()
-* [Chapter 17 - Handling Events]()
-* [Chapter 18 - Scripted HTTP]()
-* [Chapter 19 - The jQuery Library]()
-* [Chapter 20 - Client-Side Storage]()
-* [Chapter 21 - Scripted Media and Graphics]()
-* [Chapter 22 - HTML5 APIs]()
+* Chapter 1
+   * Part I
+
