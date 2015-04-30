@@ -3,7 +3,7 @@
 * [Introduction](introduction.md)
 * [Chapter 1](chapter_1.md)
 * [Chapter 6 - Objects](chapter_6.md)
-* Chapter 2
+* [Chapter 2](chapter2.md)
 * Chapter 3
 * Chapter 4
 * Chapter 5
