@@ -5,4 +5,5 @@
 * [Chapter 6 - Objects](chapter_6.md)
 * Chapter 2
 * Chapter 3
+* Chapter 4
 
