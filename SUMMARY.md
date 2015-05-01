@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](chapter01.md)
+* [Overview](chapter01.md)
 * [Lexical Structure](PartI/chapter02.md)
 * [Types, Values, and Variables](PartI/chapter03.md)
 * [Expressions and Operators](PartI/chapter04.md)
