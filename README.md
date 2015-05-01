@@ -8,6 +8,3 @@ For JavaScript questions post them to [StackOverflow](http://stackoverflow) and 
 
 ###Contributors
 Pull requests are always welcome.
-
-###LICENSE
-[GPLv2+](http://www.gnu.org/licenses/gpl-2.0.html)
