@@ -8,6 +8,6 @@ It is also used in server-side network programming with runtime environments lik
 
 JavaScript was originally developed in 1995 by Brendan Eich, while he was working for Netscape.
 
-As part of every major web browser JavaScript is the most popular programming language in the world.
+JavaScript is a component of every major web browser, making it the most popular programming language in the world.
 
-**European Computer Manufacturers ASsociation (ECMA):** the organizing body that governs and develops the ECMAScript standard, commonly known as JavaScript
+**European Computer Manufacturers Association (ECMA):** the organizing body that governs and develops the ECMAScript standard, commonly known as JavaScript
